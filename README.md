@@ -1,4 +1,9 @@
-### Hi there 👋
+### Jo Carter 👋
+
+- 😄 Pronouns: she/ her
+- 📫 How to reach me: Email [work@jocarter.co.uk](mailto:work@jocarter.co.uk) or Twitter [@angelsk](https://twitter.com/angelsk)
+- ⚡ Fun fact: My socks haven't matched since 2000
+- 🔭 Technologies: I'm a PHP dev with a love for the Symfony Framework 💖 (since version 1.0)
 
 <!--
 **angelsk/angelsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
