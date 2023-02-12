@@ -19,7 +19,7 @@ Talented and experienced technical leader, manager, mentor and coach; with a pas
 - Javascript (Node, Typescript, Vue including Composition API, React) 
 - Augmented Reality (AR) - Three.js, Shaders (GLSL), GLB/GLTF/USDZ, Model Viewer, WebAR
 - Analytics and data engineering (Snowplow, dbt Cloud, Postgres, SQL)
-- Automated testing - Unit/ integration tests (PHPUnit, Cypress, Mocha, etc); Static code analytics (ESlint, PHPStan, etc)
+- Automated testing - Unit/ integration tests (PHPUnit, Cypress, Mocha, etc); Static code analytics (ESLint, PHPStan, etc)
 - Devops/ Infrastructure (AWS, GCP, Terraform, Ansible, Kubernetes, Docker, Nginx)
 
 ### OTHER INTERESTS
