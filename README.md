@@ -15,6 +15,7 @@ Talented and experienced technical leader, manager, mentor and coach; with a pas
 - Delivery assurance (code quality, automated testing, quality assurance, edge cases, aesthetics, follow through, oversight over the entire project process)
 
 ### TECHNOLOGIES AND PLATFORMS
+- Learning Unity, UEFN and Game Design
 - PHP (Laravel with Nova, Symfony) 
 - Javascript (Node, Typescript, Vue including Composition API, React) 
 - Augmented Reality (AR) - Three.js, Shaders (GLSL), GLB/GLTF/USDZ, Model Viewer, WebAR
