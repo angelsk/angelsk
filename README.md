@@ -24,7 +24,7 @@ Talented and experienced technical leader, manager, mentor and coach; with a pas
 - Devops/ Infrastructure (AWS, GCP, Terraform, Ansible, Kubernetes, Docker, Nginx, Jenkins)
 
 ### OTHER INTERESTS
-- Streaming (indie games) regularly on Twitch
+- Content creator and streamer (indie games) on Twitch (2017 - present)
 - Computer games, achievement hunting, reading, escape rooms, puzzles, knitting: a self-confessed geek
 
 ### OTHER RELEVANT INFORMATION
