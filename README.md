@@ -7,25 +7,25 @@
 Talented and experienced technical leader, manager, mentor and coach; with a passion for diversity, inclusion, accessibility and enabling others. Looking for a balance between management, technical architecture and leadership, and hands-on coding. My goal is to help drive a positive change in those around me; through coaching, technology and awareness. A literal-minded individual who thrives with clarity of communication, and in an open and inclusive workplace culture.
 
 ### KEY SKILLS
-- Product-minded team leader and engineer (accessibility, domain-driven design and test-driven development, contributing back to open source projects, as well as hands on coding)
-- Managing, coaching, mentoring; leading and developing teams of engineers, with a special interest in neurodivergent individuals
-- Writing technical documentation, identifying security risks, considerations and edge cases, user interface and experience design
-- Specialisation in code gardening (refactoring, pruning, maintenance, documentation, automation, data cleaning)
-- Delivery assurance (code quality, automated testing, quality assurance, edge cases, aesthetics, follow through, oversight over the entire project process)
-- Building diverse and inclusive teams; with a focus on neurodiversity and accessibility, shaping company culture and having a positive impact on peoples’ lives
+* Product-minded team leader and engineer (accessibility, domain-driven design and test-driven development, contributing back to open source projects, as well as hands on coding)
+* Managing, coaching, mentoring; leading and developing teams of engineers, with a special interest in neurodivergent individuals
+* Writing technical documentation, identifying security risks, considerations and edge cases, user interface and experience design
+* Specialisation in code gardening (refactoring, pruning, maintenance, documentation, automation, data cleaning)
+* Delivery assurance (code quality, automated testing, quality assurance, edge cases, aesthetics, follow through, oversight over the entire project process)
+* Building diverse and inclusive teams; with a focus on neurodiversity and accessibility, shaping company culture and having a positive impact on peoples’ lives
 
 ### TECHNOLOGIES AND PLATFORMS
-- PHP (Laravel with Nova, Symfony) 
-- Javascript (Node, Typescript, Vue including Composition API, React) 
-- Augmented Reality (AR) - Three.js, Shaders (GLSL), GLB/GLTF/USDZ, Model Viewer, WebAR
-- Mobile app and game development (ReactNative, RenJS, Unity*, Apple AppStore and GooglePlay)
-- Analytics and data engineering (Snowplow, dbt Cloud, Postgres, SQL)
-- Automated testing - Unit/ integration tests (PHPUnit, Cypress, Mocha, etc); Static code analytics (ESLint, PHPStan, etc)
-- Devops/ Infrastructure (AWS, GCP, Terraform, Ansible, Kubernetes, Docker, Nginx, Jenkins)
+* PHP (Laravel with Nova, Symfony)
+* Javascript (Node, Typescript, Vue including Composition API, React)
+* Augmented Reality (AR) - Three.js, Shaders (GLSL), GLB/GLTF/USDZ, Model Viewer, WebAR
+* Mobile app and game development (ReactNative, RenJS, Unity*, Apple AppStore and GooglePlay)
+* Analytics and data engineering (Snowplow, dbt Cloud, Postgres, SQL)
+* Automated testing - Unit/ integration tests (PHPUnit, Cypress, Mocha, etc); Static code analytics (ESLint, PHPStan, etc)
+* Devops/ Infrastructure (AWS, GCP, Terraform, Ansible, Kubernetes, Docker, Nginx, Jenkins)
 
 ### OTHER INTERESTS
-- Content creator and streamer (indie games) on Twitch (2017 - present)
-- Computer games, achievement hunting, reading, escape rooms, puzzles, knitting: a self-confessed geek
+* Content creator and streamer (indie games) on Twitch (2017 - present)
+* Computer games, achievement hunting, reading, escape rooms, puzzles, knitting: a self-confessed geek
 
 ### OTHER RELEVANT INFORMATION
 
